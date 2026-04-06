@@ -4,6 +4,9 @@
     "email": "15955330166@proton.me"
   },
   "records": {
-    "CNAME": "steep-cherry-03ae.cw0686186.workers.dev"
+    "A": [
+      "172.67.135.215",
+      "104.21.6.147"
+    ]
   }
 }
