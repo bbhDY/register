@@ -4,9 +4,6 @@
     "email": "15955330166@proton.me"
   },
   "records": {
-    "NS": [
-      "fred.ns.cloudflare.com",
-      "magali.ns.cloudflare.com"
-    ]
+    "CNAME": "steep-cherry-03ae.cw0686186.workers.dev"
   }
 }
